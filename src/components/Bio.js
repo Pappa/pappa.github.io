@@ -30,7 +30,7 @@ function Bio() {
             <p>
               A tech blog by <strong>{author}</strong>, who's always worried
               about code rot.
-              {` `}
+              <br />
               <a href={`https://twitter.com/${social.twitter}`}>
                 Follow me on Twitter
               </a>
