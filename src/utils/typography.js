@@ -1,13 +1,6 @@
 import Typography from 'typography'
 import Lincoln from 'typography-theme-lincoln'
-
-Lincoln.overrideThemeStyles = () => {
-  return {
-    'a.gatsby-resp-image-link': {
-      boxShadow: `none`,
-    },
-  }
-}
+Lincoln.baseFontSize = '20px'
 
 delete Lincoln.googleFonts
 
