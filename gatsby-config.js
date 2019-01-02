@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `pappa.gitgub.io`,
+    title: `pappa.github.io`,
     author: `Pappa`,
     description: `A personal tech blog.`,
-    siteUrl: `https://pappa.gitgub.io/`,
+    siteUrl: `https://pappa.github.io/`,
     social: {
       twitter: `DrPappa`,
     },

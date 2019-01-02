@@ -1,22 +1,20 @@
 import React from 'react'
+import styled from 'styled-components/macro'
 import Header from './Header'
 
-import { rhythm } from '../utils/typography'
+export const Container = styled.div`
+  margin: 0 auto;
+  max-width: 40rem;
+  padding: 1.5rem 1rem;
+`
 
 const Layout = ({ title, children }) => {
   return (
-    <div
-      style={{
-        marginLeft: `auto`,
-        marginRight: `auto`,
-        maxWidth: rhythm(24),
-        padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-      }}
-    >
+    <Container>
       <Header>{title}</Header>
       {children}
       <footer>© 2019</footer>
-    </div>
+    </Container>
   )
 }
 
