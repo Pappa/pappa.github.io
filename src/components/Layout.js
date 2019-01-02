@@ -7,6 +7,11 @@ class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props
     const rootPath = `${__PATH_PREFIX__}/`
+    const headerLinkStyle = {
+      boxShadow: `none`,
+      textDecoration: `none`,
+      color: `inherit`,
+    }
     let header
 
     if (location.pathname === rootPath) {
@@ -18,14 +23,7 @@ class Layout extends React.Component {
             marginTop: 0,
           }}
         >
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
-            to={`/`}
-          >
+          <Link style={headerLinkStyle} to={`/`}>
             {title}
           </Link>
         </h1>
@@ -39,14 +37,7 @@ class Layout extends React.Component {
             marginBottom: rhythm(-1),
           }}
         >
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
-            to={`/`}
-          >
+          <Link style={headerLinkStyle} to={`/`}>
             {title}
           </Link>
         </h3>
