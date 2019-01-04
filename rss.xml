@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DungBeetleBASH]]></title><description><![CDATA[A personal tech blog.]]></description><link>https://pappa.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 03 Jan 2019 07:57:06 GMT</lastBuildDate><item><title><![CDATA[Is it safe to go outside? - Privacy Policy]]></title><description><![CDATA[About this policy This privacy policy relates to the  Is it safe to go outside?  Alexa skill. This privacy policy applies solely to…]]></description><link>https://pappa.github.io//Is-it-safe-privacy/</link><guid isPermaLink="false">https://pappa.github.io//Is-it-safe-privacy/</guid><pubDate>Wed, 18 Oct 2017 21:06:00 GMT</pubDate><content:encoded>&lt;h2&gt;About this policy&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DungBeetleBASH]]></title><description><![CDATA[A personal tech blog.]]></description><link>https://pappa.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 04 Jan 2019 08:28:38 GMT</lastBuildDate><item><title><![CDATA[Is it safe to go outside? - Privacy Policy]]></title><description><![CDATA[About this policy This privacy policy relates to the  Is it safe to go outside?  Alexa skill. This privacy policy applies solely to…]]></description><link>https://pappa.github.io//Is-it-safe-privacy/</link><guid isPermaLink="false">https://pappa.github.io//Is-it-safe-privacy/</guid><pubDate>Wed, 18 Oct 2017 21:06:00 GMT</pubDate><content:encoded>&lt;h2&gt;About this policy&lt;/h2&gt;
 &lt;p&gt;This privacy policy relates to the &lt;em&gt;Is it safe to go outside?&lt;/em&gt; Alexa skill.&lt;/p&gt;
 &lt;p&gt;This privacy policy applies solely to information provided to DungBeetleBASH by the user. &lt;/p&gt;
 &lt;p&gt;It will notify you of the following: &lt;/p&gt;
@@ -23,8 +23,32 @@
 &lt;p&gt;At my second programming job, I had to clock out to use the toilets. Also, one time I opened the toilet door to find my boss bending over, wiping his arse.&lt;/p&gt;
 &lt;p&gt;At my third programming job, the toilet flushes were so useless that you’d need to flush 5-8 times to get the poo down, and wait 3 minutes between each flush for the cistern to refill. Literally thousands of pounds in engineering time was wasted just because of some crappy toilets.&lt;/p&gt;
 &lt;p&gt;At my fourth programming job, there just weren’t enough toilets to go round and one time I overheard two guys in adjacent cubicles having a noisy conversation about their piss up the night before, whilst both shitting really, really loudly.&lt;/p&gt;
-&lt;p&gt;At my current programming job, I found a turd that looked like a baby walrus just hunched there in the pan that somebody had left as a surprise. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Etty, an Alexa skill for word nerds!]]></title><description><![CDATA[Do you love a bit of word porn? If so, you might like Etty, an Alexa skill to search for word etymologies. ({{ “/public/assets/etty-amazon…]]></description><link>https://pappa.github.io//etty/</link><guid isPermaLink="false">https://pappa.github.io//etty/</guid><pubDate>Fri, 13 Oct 2017 07:44:00 GMT</pubDate><content:encoded>&lt;p&gt;Do you love a bit of word porn? If so, you might like Etty, an Alexa skill to search for word etymologies.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://goo.gl/6WRHPe&quot;&gt;![Etty]({{ “/public/assets/etty-amazon.png” | absolute_url }})&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;At my current programming job, I found a turd that looked like a baby walrus just hunched there in the pan that somebody had left as a surprise. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Etty, an Alexa skill for word nerds!]]></title><description><![CDATA[Do you love a bit of word porn? If so, you might like Etty, an Alexa skill to search for word etymologies. Etty: UK version Etty: US version]]></description><link>https://pappa.github.io//etty/</link><guid isPermaLink="false">https://pappa.github.io//etty/</guid><pubDate>Fri, 13 Oct 2017 07:44:00 GMT</pubDate><content:encoded>&lt;p&gt;Do you love a bit of word porn? If so, you might like Etty, an Alexa skill to search for word etymologies.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://goo.gl/6WRHPe&quot;&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 31.762295081967213%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAYAAADDl76dAAAACXBIWXMAAAsSAAALEgHS3X78AAAA+ElEQVQY05VQu07EMBA0PSUlPQWfAF9LexISDTRQXIOgg4IWgkIuFyfBefhin1/D2kquPkYa73rXHo+XhRAQEWZGOOvg/Vyn/nLmGLC4qKpGcbNCcXtPYha8rlCWG1jnDoLHkjkS1Ks7vJxe4vX8GurtA9r8ovt5x27s8V+w+Jn+cQ11cgF9doXuM4O1e0wth+5FcmnJ9d4YTEpBaZ1oqLbkaq4nh2lmwaN/WKN7ekZ0bGiGtehQNS22nGOQI1Fisy3xlWXgTZP2ddviO8+RF0XKHT3OloHbKDzbNuRG0gUhBEa5wzAZjMpgIEqi9z45jzGKuBiJUesPOfDLDOl2qxkAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Etty&quot;
+        title=&quot;&quot;
+        src=&quot;/static/5904d6e77d504dd51ae88d7c1109f3de/fb8a0/etty-amazon.png&quot;
+        srcset=&quot;/static/5904d6e77d504dd51ae88d7c1109f3de/1a291/etty-amazon.png 148w,
+/static/5904d6e77d504dd51ae88d7c1109f3de/2bc4a/etty-amazon.png 295w,
+/static/5904d6e77d504dd51ae88d7c1109f3de/fb8a0/etty-amazon.png 590w,
+/static/5904d6e77d504dd51ae88d7c1109f3de/526de/etty-amazon.png 885w,
+/static/5904d6e77d504dd51ae88d7c1109f3de/41ba9/etty-amazon.png 976w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://goo.gl/6WRHPe&quot;&gt;Etty: UK version&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://goo.gl/Nv241Z&quot;&gt;Etty: US version&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Farty Turd has been released!]]></title><description><![CDATA[Farty Turd has been released on the Google Play Store. Download Farty Turd]]></description><link>https://pappa.github.io//Farty-Turd-has-been-released/</link><guid isPermaLink="false">https://pappa.github.io//Farty-Turd-has-been-released/</guid><pubDate>Sun, 04 Oct 2015 20:37:00 GMT</pubDate><content:encoded>&lt;p&gt;Farty Turd has been released on the Google Play Store.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.github.DungBeetleBASH.FartyTurd&quot;&gt;Download Farty Turd&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Farty Turd v0.2]]></title><description><![CDATA[More progress on Farty Turd.]]></description><link>https://pappa.github.io//FartyTurd-v0.2/</link><guid isPermaLink="false">https://pappa.github.io//FartyTurd-v0.2/</guid><pubDate>Sun, 23 Aug 2015 22:37:00 GMT</pubDate><content:encoded>&lt;p&gt;More progress on Farty Turd.&lt;/p&gt;
